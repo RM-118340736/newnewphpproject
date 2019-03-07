@@ -9,6 +9,8 @@ and open the template in the editor.
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
+    
+    
   
     h1 {
         color:#000900;     
@@ -19,6 +21,7 @@ and open the template in the editor.
         background-image: url(background.jpg)       
     }
  h2 {
+     
       color:white;
       font-size:40px;
       text-align:center;  
