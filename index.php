@@ -64,6 +64,8 @@ and open the template in the editor.
 <body>
     <div id="image" style="float:left;">
         <a href="https://github.com/RM-118340736/newnewphpproject">Git Hub</a>
+        <br>
+        <a href="https://newnewphpproject.herokuapp.com/">Net Beans</a>
     </div>
 
     <div id="texts" style="align-content:center;"> 
