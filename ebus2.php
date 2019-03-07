@@ -13,6 +13,7 @@ $totalValue = $_POST['txtTotal'];
 <!DOCTYPE html>
         <html>
             <HEAD>
+                
                 <link rel="stylesheet" type="text/css" href="ebuscss.css">
                 <TITLE>Personal Details</TITLE>
             </HEAD>

@@ -11,6 +11,7 @@
     <center>
         <?php
         
+        
         session_start();
         $totalValue2 = $_POST['txtTotal'];
         $fullNameValue =$_POST['txtName'];

@@ -13,6 +13,7 @@ $_SESSION['txtTotal'] = $totalValue;
         
     </head>
         <body>
+            
        <div id="container">
        <div id="image" style="float:left;">
        <a href="http://localhost:8000/UpdatedConsultancyHomePage.html"><img length="80px" width="80px" src="rightArrow.png" alt=""/></a>
