@@ -62,8 +62,14 @@ and open the template in the editor.
 </style>
 </head>
 <body>
+    <div id="image" style="float:left;">
+        <a href="https://github.com/RM-118340736/newnewphpproject">Git Hub</a>
+    </div>
 
-<h2> - Home Page -</h2>
+    <div id="texts" style="align-content:center;"> 
+        <h2> - Home Page -</h2>
+    </div>
+
 <div class="row">
   <div class="column1" style="">
     <br>   
